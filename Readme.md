@@ -10,3 +10,8 @@ La prueba sera que pueda mostrarse como se accede a la URL del container mostran
 Si bien no se explicita exactamente los distintos entregables esperados, mientras mas entregables haya, como por ejemplo el setup de un CI/CD, IaC, etc... el resultado sera considerado mejor.
 
 El tiempo de resolucion para este challenge es de maximo una semana.
+
+## To start with the challenge
+Para empezar con el challenge, por favor forkear a un repo nuevo. 
+
+Thx and best of luck <3
